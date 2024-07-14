@@ -1,0 +1,797 @@
+{
+    "metadata": {
+        "transaction_key": "Cs6mGgPrfhznXS4QhGiafh2GeoIE4A3A+fdEsYZbVu+PzKqDJfykt7Ft40HuV3hQGGfdaq2pXD+Z5BzFYuPW1HoWRtmdFnAWZAeKKNsWMzlzEEJhhirTI3JaXayEYA9Tf/TzQqrL+cu4iuTcFInm4N2nCggtaYhCfU4aE6MbEvCjAOV6eag1cL1jtMKc1Q8SSP88+lLkqGGiGL7jvm1FI9UkFfkR4GCeacmOvpXcyOWfi0u97/OcJvcVUdp94qQbJvJ5fSffkhUknJ7w4vpTqq1Z5wsrpZX+3WvZb7blo0YUtQmnja6eis+WeLjBYsBvv8eQ3KtmhemLMQqxCpnz/anGpGWtzAa3tUH9oMJvSOCRpT/0",
+        "request_id": "2a3e9aa9-730f-4cce-adbb-35d5968cfad9",
+        "sha256": "37eebad014e8ac390824ecee0a7e74bf98506961f8dd3fef9e8ae09a0f231e83",
+        "created": "2021-09-07T06:19:31.746Z",
+        "duration": 63.994003,
+        "channels": 1,
+        "models": [
+            "41757536-6114-494d-83fd-c2694524d80b"
+        ]
+    },
+    "results": {
+        "channels": [
+            {
+                "alternatives": [
+                    {
+                        "transcript": "Hello. Good morning. Tesla incorporation is an american electric medical and l plain energy company based Parallel alto, California. Tesla sla current products include battery, energy stove, from home to grid scale, solar panels and solar roof tiles as well as other related products and services. In twenty twenty, Tesla had the highest sales in the the plug in and battery el passenger cost segments capturing sixteen percentage of the plugging market which includes plugging high and twenty three percentage of the battery electric that is pure market. Through its subsidiary test energy, the company develops and easier, major installer of solar photo energy generation systems in the united states.",
+                        "confidence": 0.97390044,
+                        "words": [
+                            {
+                                "word": "hello",
+                                "start": 1.2165536,
+                                "end": 1.4957626,
+                                "confidence": 0.90985507,
+                                "punctuated_word": "Hello."
+                            },
+                            {
+                                "word": "good",
+                                "start": 1.7350847,
+                                "end": 2.0142937,
+                                "confidence": 0.9887229,
+                                "punctuated_word": "Good"
+                            },
+                            {
+                                "word": "morning",
+                                "start": 2.0142937,
+                                "end": 2.5142937,
+                                "confidence": 0.99886227,
+                                "punctuated_word": "morning."
+                            },
+                            {
+                                "word": "tesla",
+                                "start": 3.0912428,
+                                "end": 3.5912428,
+                                "confidence": 0.649507,
+                                "punctuated_word": "Tesla"
+                            },
+                            {
+                                "word": "incorporation",
+                                "start": 3.92887,
+                                "end": 4.407514,
+                                "confidence": 0.6361492,
+                                "punctuated_word": "incorporation"
+                            },
+                            {
+                                "word": "is",
+                                "start": 4.407514,
+                                "end": 4.606949,
+                                "confidence": 0.99450606,
+                                "punctuated_word": "is"
+                            },
+                            {
+                                "word": "an",
+                                "start": 4.606949,
+                                "end": 5.005819,
+                                "confidence": 0.9907774,
+                                "punctuated_word": "an"
+                            },
+                            {
+                                "word": "american",
+                                "start": 5.005819,
+                                "end": 5.484463,
+                                "confidence": 0.9967625,
+                                "punctuated_word": "american"
+                            },
+                            {
+                                "word": "electric",
+                                "start": 5.484463,
+                                "end": 5.92322,
+                                "confidence": 0.33840328,
+                                "punctuated_word": "electric"
+                            },
+                            {
+                                "word": "medical",
+                                "start": 5.92322,
+                                "end": 6.42322,
+                                "confidence": 0.63768184,
+                                "punctuated_word": "medical"
+                            },
+                            {
+                                "word": "and",
+                                "start": 6.521525,
+                                "end": 6.840621,
+                                "confidence": 0.8538194,
+                                "punctuated_word": "and"
+                            },
+                            {
+                                "word": "l",
+                                "start": 6.840621,
+                                "end": 7.075,
+                                "confidence": 0.47244942,
+                                "punctuated_word": "l"
+                            },
+                            {
+                                "word": "plain",
+                                "start": 7.375,
+                                "end": 7.615,
+                                "confidence": 0.4266231,
+                                "punctuated_word": "plain"
+                            },
+                            {
+                                "word": "energy",
+                                "start": 7.615,
+                                "end": 8.115,
+                                "confidence": 0.9778172,
+                                "punctuated_word": "energy"
+                            },
+                            {
+                                "word": "company",
+                                "start": 8.215,
+                                "end": 8.655,
+                                "confidence": 0.9978084,
+                                "punctuated_word": "company"
+                            },
+                            {
+                                "word": "based",
+                                "start": 8.655,
+                                "end": 9.155,
+                                "confidence": 0.97390044,
+                                "punctuated_word": "based"
+                            },
+                            {
+                                "word": "parallel",
+                                "start": 9.375,
+                                "end": 9.695,
+                                "confidence": 0.8995708,
+                                "punctuated_word": "Parallel"
+                            },
+                            {
+                                "word": "alto",
+                                "start": 9.695,
+                                "end": 10.055,
+                                "confidence": 0.86094356,
+                                "punctuated_word": "alto,"
+                            },
+                            {
+                                "word": "california",
+                                "start": 10.215,
+                                "end": 10.715,
+                                "confidence": 0.9996754,
+                                "punctuated_word": "California."
+                            },
+                            {
+                                "word": "tesla",
+                                "start": 11.615,
+                                "end": 11.8949995,
+                                "confidence": 0.6267848,
+                                "punctuated_word": "Tesla"
+                            },
+                            {
+                                "word": "sla",
+                                "start": 11.8949995,
+                                "end": 12.254999,
+                                "confidence": 0.12389037,
+                                "punctuated_word": "sla"
+                            },
+                            {
+                                "word": "current",
+                                "start": 12.254999,
+                                "end": 12.695,
+                                "confidence": 0.9993556,
+                                "punctuated_word": "current"
+                            },
+                            {
+                                "word": "products",
+                                "start": 12.695,
+                                "end": 13.195,
+                                "confidence": 0.9567476,
+                                "punctuated_word": "products"
+                            },
+                            {
+                                "word": "include",
+                                "start": 13.375,
+                                "end": 13.875,
+                                "confidence": 0.9879654,
+                                "punctuated_word": "include"
+                            },
+                            {
+                                "word": "battery",
+                                "start": 14.655,
+                                "end": 15.094999,
+                                "confidence": 0.99407977,
+                                "punctuated_word": "battery,"
+                            },
+                            {
+                                "word": "energy",
+                                "start": 15.254999,
+                                "end": 15.754999,
+                                "confidence": 0.9401814,
+                                "punctuated_word": "energy"
+                            },
+                            {
+                                "word": "stove",
+                                "start": 15.855,
+                                "end": 15.974999,
+                                "confidence": 0.94707686,
+                                "punctuated_word": "stove,"
+                            },
+                            {
+                                "word": "from",
+                                "start": 16.19,
+                                "end": 16.69,
+                                "confidence": 0.99948114,
+                                "punctuated_word": "from"
+                            },
+                            {
+                                "word": "home",
+                                "start": 17.11,
+                                "end": 17.43,
+                                "confidence": 0.9251644,
+                                "punctuated_word": "home"
+                            },
+                            {
+                                "word": "to",
+                                "start": 17.43,
+                                "end": 17.75,
+                                "confidence": 0.9953607,
+                                "punctuated_word": "to"
+                            },
+                            {
+                                "word": "grid",
+                                "start": 17.75,
+                                "end": 18.15,
+                                "confidence": 0.6615558,
+                                "punctuated_word": "grid"
+                            },
+                            {
+                                "word": "scale",
+                                "start": 18.15,
+                                "end": 18.65,
+                                "confidence": 0.9630407,
+                                "punctuated_word": "scale,"
+                            },
+                            {
+                                "word": "solar",
+                                "start": 19.31,
+                                "end": 19.75,
+                                "confidence": 0.99995077,
+                                "punctuated_word": "solar"
+                            },
+                            {
+                                "word": "panels",
+                                "start": 19.75,
+                                "end": 20.25,
+                                "confidence": 0.9978314,
+                                "punctuated_word": "panels"
+                            },
+                            {
+                                "word": "and",
+                                "start": 20.470001,
+                                "end": 20.79,
+                                "confidence": 0.9918201,
+                                "punctuated_word": "and"
+                            },
+                            {
+                                "word": "solar",
+                                "start": 20.79,
+                                "end": 21.11,
+                                "confidence": 0.9862433,
+                                "punctuated_word": "solar"
+                            },
+                            {
+                                "word": "roof",
+                                "start": 21.11,
+                                "end": 21.43,
+                                "confidence": 0.87580305,
+                                "punctuated_word": "roof"
+                            },
+                            {
+                                "word": "tiles",
+                                "start": 21.43,
+                                "end": 21.93,
+                                "confidence": 0.8138732,
+                                "punctuated_word": "tiles"
+                            },
+                            {
+                                "word": "as",
+                                "start": 21.99,
+                                "end": 22.31,
+                                "confidence": 0.9995395,
+                                "punctuated_word": "as"
+                            },
+                            {
+                                "word": "well",
+                                "start": 22.31,
+                                "end": 22.470001,
+                                "confidence": 0.99993336,
+                                "punctuated_word": "well"
+                            },
+                            {
+                                "word": "as",
+                                "start": 22.470001,
+                                "end": 22.79,
+                                "confidence": 0.989278,
+                                "punctuated_word": "as"
+                            },
+                            {
+                                "word": "other",
+                                "start": 22.79,
+                                "end": 23.27,
+                                "confidence": 0.99483675,
+                                "punctuated_word": "other"
+                            },
+                            {
+                                "word": "related",
+                                "start": 23.27,
+                                "end": 23.71,
+                                "confidence": 0.8375616,
+                                "punctuated_word": "related"
+                            },
+                            {
+                                "word": "products",
+                                "start": 23.71,
+                                "end": 24.21,
+                                "confidence": 0.98712426,
+                                "punctuated_word": "products"
+                            },
+                            {
+                                "word": "and",
+                                "start": 24.23,
+                                "end": 24.585,
+                                "confidence": 0.99718946,
+                                "punctuated_word": "and"
+                            },
+                            {
+                                "word": "services",
+                                "start": 24.76446,
+                                "end": 25.26446,
+                                "confidence": 0.9941092,
+                                "punctuated_word": "services."
+                            },
+                            {
+                                "word": "in",
+                                "start": 26.957859,
+                                "end": 27.237019,
+                                "confidence": 0.9980368,
+                                "punctuated_word": "In"
+                            },
+                            {
+                                "word": "twenty",
+                                "start": 27.237019,
+                                "end": 27.556059,
+                                "confidence": 0.9919074,
+                                "punctuated_word": "twenty"
+                            },
+                            {
+                                "word": "twenty",
+                                "start": 27.556059,
+                                "end": 28.056059,
+                                "confidence": 0.9915591,
+                                "punctuated_word": "twenty,"
+                            },
+                            {
+                                "word": "tesla",
+                                "start": 28.353659,
+                                "end": 28.853659,
+                                "confidence": 0.9985953,
+                                "punctuated_word": "Tesla"
+                            },
+                            {
+                                "word": "had",
+                                "start": 28.872099,
+                                "end": 29.151258,
+                                "confidence": 0.99579924,
+                                "punctuated_word": "had"
+                            },
+                            {
+                                "word": "the",
+                                "start": 29.151258,
+                                "end": 29.470299,
+                                "confidence": 0.99168473,
+                                "punctuated_word": "the"
+                            },
+                            {
+                                "word": "highest",
+                                "start": 29.470299,
+                                "end": 29.970299,
+                                "confidence": 0.9969355,
+                                "punctuated_word": "highest"
+                            },
+                            {
+                                "word": "sales",
+                                "start": 30.068499,
+                                "end": 30.387539,
+                                "confidence": 0.96486336,
+                                "punctuated_word": "sales"
+                            },
+                            {
+                                "word": "in",
+                                "start": 30.387539,
+                                "end": 30.70658,
+                                "confidence": 0.9594539,
+                                "punctuated_word": "in"
+                            },
+                            {
+                                "word": "the",
+                                "start": 30.70658,
+                                "end": 31.185139,
+                                "confidence": 0.6347493,
+                                "punctuated_word": "the"
+                            },
+                            {
+                                "word": "the",
+                                "start": 31.185139,
+                                "end": 31.504179,
+                                "confidence": 0.97460055,
+                                "punctuated_word": "the"
+                            },
+                            {
+                                "word": "plug",
+                                "start": 31.504179,
+                                "end": 31.74346,
+                                "confidence": 0.9602563,
+                                "punctuated_word": "plug"
+                            },
+                            {
+                                "word": "in",
+                                "start": 31.74346,
+                                "end": 31.94286,
+                                "confidence": 0.49994576,
+                                "punctuated_word": "in"
+                            },
+                            {
+                                "word": "and",
+                                "start": 31.94286,
+                                "end": 32.30178,
+                                "confidence": 0.9228347,
+                                "punctuated_word": "and"
+                            },
+                            {
+                                "word": "battery",
+                                "start": 32.30178,
+                                "end": 32.660698,
+                                "confidence": 0.9899866,
+                                "punctuated_word": "battery"
+                            },
+                            {
+                                "word": "el",
+                                "start": 32.660698,
+                                "end": 33.160698,
+                                "confidence": 0.53171563,
+                                "punctuated_word": "el"
+                            },
+                            {
+                                "word": "passenger",
+                                "start": 33.17914,
+                                "end": 33.67914,
+                                "confidence": 0.9942127,
+                                "punctuated_word": "passenger"
+                            },
+                            {
+                                "word": "cost",
+                                "start": 33.81722,
+                                "end": 34.09638,
+                                "confidence": 0.4829987,
+                                "punctuated_word": "cost"
+                            },
+                            {
+                                "word": "segments",
+                                "start": 34.09638,
+                                "end": 34.57,
+                                "confidence": 0.97056866,
+                                "punctuated_word": "segments"
+                            },
+                            {
+                                "word": "capturing",
+                                "start": 36.187847,
+                                "end": 36.687847,
+                                "confidence": 0.9995763,
+                                "punctuated_word": "capturing"
+                            },
+                            {
+                                "word": "sixteen",
+                                "start": 36.86694,
+                                "end": 37.36694,
+                                "confidence": 0.99922764,
+                                "punctuated_word": "sixteen"
+                            },
+                            {
+                                "word": "percentage",
+                                "start": 37.426197,
+                                "end": 37.705826,
+                                "confidence": 0.93852013,
+                                "punctuated_word": "percentage"
+                            },
+                            {
+                                "word": "of",
+                                "start": 37.705826,
+                                "end": 37.90556,
+                                "confidence": 0.9879369,
+                                "punctuated_word": "of"
+                            },
+                            {
+                                "word": "the",
+                                "start": 37.90556,
+                                "end": 38.305027,
+                                "confidence": 0.99729735,
+                                "punctuated_word": "the"
+                            },
+                            {
+                                "word": "plugging",
+                                "start": 38.305027,
+                                "end": 38.704494,
+                                "confidence": 0.4307704,
+                                "punctuated_word": "plugging"
+                            },
+                            {
+                                "word": "market",
+                                "start": 38.704494,
+                                "end": 39.204494,
+                                "confidence": 0.9904855,
+                                "punctuated_word": "market"
+                            },
+                            {
+                                "word": "which",
+                                "start": 39.343643,
+                                "end": 39.843643,
+                                "confidence": 0.99948585,
+                                "punctuated_word": "which"
+                            },
+                            {
+                                "word": "includes",
+                                "start": 39.862953,
+                                "end": 40.26242,
+                                "confidence": 0.9988776,
+                                "punctuated_word": "includes"
+                            },
+                            {
+                                "word": "plugging",
+                                "start": 40.26242,
+                                "end": 40.66189,
+                                "confidence": 0.517962,
+                                "punctuated_word": "plugging"
+                            },
+                            {
+                                "word": "high",
+                                "start": 40.66189,
+                                "end": 41.16189,
+                                "confidence": 0.8721073,
+                                "punctuated_word": "high"
+                            },
+                            {
+                                "word": "and",
+                                "start": 41.74045,
+                                "end": 42.095,
+                                "confidence": 0.9901816,
+                                "punctuated_word": "and"
+                            },
+                            {
+                                "word": "twenty",
+                                "start": 42.31427,
+                                "end": 42.63321,
+                                "confidence": 0.998044,
+                                "punctuated_word": "twenty"
+                            },
+                            {
+                                "word": "three",
+                                "start": 42.63321,
+                                "end": 42.992016,
+                                "confidence": 0.9992949,
+                                "punctuated_word": "three"
+                            },
+                            {
+                                "word": "percentage",
+                                "start": 42.992016,
+                                "end": 43.271084,
+                                "confidence": 0.9748638,
+                                "punctuated_word": "percentage"
+                            },
+                            {
+                                "word": "of",
+                                "start": 43.271084,
+                                "end": 43.47042,
+                                "confidence": 0.97374004,
+                                "punctuated_word": "of"
+                            },
+                            {
+                                "word": "the",
+                                "start": 43.47042,
+                                "end": 43.709625,
+                                "confidence": 0.99041486,
+                                "punctuated_word": "the"
+                            },
+                            {
+                                "word": "battery",
+                                "start": 43.709625,
+                                "end": 44.209625,
+                                "confidence": 0.9996308,
+                                "punctuated_word": "battery"
+                            },
+                            {
+                                "word": "electric",
+                                "start": 44.227898,
+                                "end": 44.727898,
+                                "confidence": 0.96230686,
+                                "punctuated_word": "electric"
+                            },
+                            {
+                                "word": "that",
+                                "start": 44.905643,
+                                "end": 45.025246,
+                                "confidence": 0.9967744,
+                                "punctuated_word": "that"
+                            },
+                            {
+                                "word": "is",
+                                "start": 45.025246,
+                                "end": 45.463783,
+                                "confidence": 0.9840458,
+                                "punctuated_word": "is"
+                            },
+                            {
+                                "word": "pure",
+                                "start": 45.463783,
+                                "end": 45.963783,
+                                "confidence": 0.8912108,
+                                "punctuated_word": "pure"
+                            },
+                            {
+                                "word": "market",
+                                "start": 46.300995,
+                                "end": 46.800995,
+                                "confidence": 0.94039124,
+                                "punctuated_word": "market."
+                            },
+                            {
+                                "word": "through",
+                                "start": 47.616615,
+                                "end": 47.776085,
+                                "confidence": 0.936526,
+                                "punctuated_word": "Through"
+                            },
+                            {
+                                "word": "its",
+                                "start": 47.776085,
+                                "end": 48.254494,
+                                "confidence": 0.8824116,
+                                "punctuated_word": "its"
+                            },
+                            {
+                                "word": "subsidiary",
+                                "start": 48.254494,
+                                "end": 48.754494,
+                                "confidence": 0.9954654,
+                                "punctuated_word": "subsidiary"
+                            },
+                            {
+                                "word": "test",
+                                "start": 49.051838,
+                                "end": 49.410645,
+                                "confidence": 0.41494757,
+                                "punctuated_word": "test"
+                            },
+                            {
+                                "word": "energy",
+                                "start": 49.410645,
+                                "end": 49.88905,
+                                "confidence": 0.9751611,
+                                "punctuated_word": "energy,"
+                            },
+                            {
+                                "word": "the",
+                                "start": 50.088387,
+                                "end": 50.32759,
+                                "confidence": 0.9633532,
+                                "punctuated_word": "the"
+                            },
+                            {
+                                "word": "company",
+                                "start": 50.32759,
+                                "end": 50.82759,
+                                "confidence": 0.9943904,
+                                "punctuated_word": "company"
+                            },
+                            {
+                                "word": "develops",
+                                "start": 50.965466,
+                                "end": 51.120003,
+                                "confidence": 0.7585654,
+                                "punctuated_word": "develops"
+                            },
+                            {
+                                "word": "and",
+                                "start": 51.3793,
+                                "end": 51.658543,
+                                "confidence": 0.95041347,
+                                "punctuated_word": "and"
+                            },
+                            {
+                                "word": "easier",
+                                "start": 51.658543,
+                                "end": 52.158543,
+                                "confidence": 0.38446647,
+                                "punctuated_word": "easier,"
+                            },
+                            {
+                                "word": "major",
+                                "start": 52.8553,
+                                "end": 53.3553,
+                                "confidence": 0.99777395,
+                                "punctuated_word": "major"
+                            },
+                            {
+                                "word": "installer",
+                                "start": 53.812706,
+                                "end": 54.211624,
+                                "confidence": 0.9347018,
+                                "punctuated_word": "installer"
+                            },
+                            {
+                                "word": "of",
+                                "start": 54.211624,
+                                "end": 54.610542,
+                                "confidence": 0.9938547,
+                                "punctuated_word": "of"
+                            },
+                            {
+                                "word": "solar",
+                                "start": 54.610542,
+                                "end": 55.110542,
+                                "confidence": 0.9994236,
+                                "punctuated_word": "solar"
+                            },
+                            {
+                                "word": "photo",
+                                "start": 55.208923,
+                                "end": 55.708923,
+                                "confidence": 0.99642074,
+                                "punctuated_word": "photo"
+                            },
+                            {
+                                "word": "energy",
+                                "start": 56.24611,
+                                "end": 56.74611,
+                                "confidence": 0.9965928,
+                                "punctuated_word": "energy"
+                            },
+                            {
+                                "word": "generation",
+                                "start": 57.52265,
+                                "end": 57.961464,
+                                "confidence": 0.975153,
+                                "punctuated_word": "generation"
+                            },
+                            {
+                                "word": "systems",
+                                "start": 57.961464,
+                                "end": 58.461464,
+                                "confidence": 0.9798705,
+                                "punctuated_word": "systems"
+                            },
+                            {
+                                "word": "in",
+                                "start": 59.48894,
+                                "end": 59.728943,
+                                "confidence": 0.9939567,
+                                "punctuated_word": "in"
+                            },
+                            {
+                                "word": "the",
+                                "start": 59.728943,
+                                "end": 60.228943,
+                                "confidence": 0.94571817,
+                                "punctuated_word": "the"
+                            },
+                            {
+                                "word": "united",
+                                "start": 60.28894,
+                                "end": 60.728943,
+                                "confidence": 0.9717697,
+                                "punctuated_word": "united"
+                            },
+                            {
+                                "word": "states",
+                                "start": 60.728943,
+                                "end": 61.048943,
+                                "confidence": 0.9950212,
+                                "punctuated_word": "states."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
